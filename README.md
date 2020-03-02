@@ -1,8 +1,8 @@
 # goChain
 Simple Blockchain in golang
 
-
-go run main.go
+First,
+`go run main.go`
 
 `go run client/main.go --list`
 When running --list for the first time the genesis block will be created.
